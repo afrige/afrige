@@ -56,11 +56,13 @@ mindset: build > imagine
 
 </div>
 
-## `trophies`
+## `currently building`
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=afrige&theme=darkhub&no-frame=true&no-bg=true&margin-w=8)
+[![GitHub](https://img.shields.io/badge/GitHub-afrige-181717?style=for-the-badge&logo=github)](https://github.com/afrige)
+
+</div>
 
 </div>
 
