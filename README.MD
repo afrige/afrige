@@ -26,7 +26,7 @@
 
 **### 📊 github stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=afrige&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afrige&theme=github_dark)
 
 
 
