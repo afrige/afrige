@@ -26,7 +26,7 @@
 
 **### 📊 github stats**
 
-**!\[](https://github-readme-stats.vercel.app/api?username=YOUR\_USERNAME\&show\_icons=true\&theme=transparent)**
+**!\[](https://github-readme-stats.vercel.app/api?username=afrige\&show\_icons=true\&theme=transparent)**
 
 
 
