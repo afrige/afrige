@@ -138,4 +138,18 @@ I enjoy experimenting with software, building online projects, designing interfa
 
 **thanks for exploring my little corner of GitHub.**
 
-if
+if something caught your attention, check out my repositories.
+
+<br/>
+
+<a href="https://github.com/afrige">
+<img src="https://img.shields.io/badge/FOLLOW-@AFRIGE-8b5cf6?style=for-the-badge&logo=github&logoColor=white&labelColor=09090b" />
+</a>
+
+<br/><br/>
+
+<sub>designed with curiosity. powered by caffeine and questionable ideas.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:312e81,100:09090b&height=130&section=footer" width="100%" />
+
+</div>
