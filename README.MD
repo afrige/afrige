@@ -1,155 +1,156 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=AFRIGE&fontSize=85&color=0:09090b,50:312e81,100:8b5cf6&stroke=8b5cf6&fontColor=ffffff&animation=fadeIn&desc=developer%20%7C%20builder%20%7C%20creator&descSize=18&descAlignY=70" width="100%" />
+# A F R I G E
+
+### `ENGINEERED IN SILENCE. BUILT TO STAND OUT.`
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2&section=header" width="100%"/>
+
+**INDEPENDENT DEVELOPER · BUILDER · CREATOR**
+
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afrige)
+[![Profile](https://img.shields.io/badge/PROFILE-222222?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afrige)
 
 <br/>
 
-<a href="https://github.com/afrige">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&repeat=true&width=600&height=40&lines=welcome+to+my+corner+of+the+internet.;building+things+that+probably+shouldn't+exist.;ideas+%E2%86%92+code+%E2%86%92+reality." />
-</a>
-
-<br/>
-
-<a href="https://github.com/afrige">
-<img src="https://komarev.com/ghpvc/?username=afrige&style=for-the-badge&color=7c3aed&label=VISITORS" />
-</a>
-<img src="https://img.shields.io/badge/STATUS-BUILDING-8b5cf6?style=for-the-badge&labelColor=09090b" />
-<img src="https://img.shields.io/badge/BASED-INTERNET-312e81?style=for-the-badge&labelColor=09090b" />
+*"Less noise. More substance."*
 
 </div>
 
 ---
 
+## 00 / INTRODUCTION
+
+I build things because I can imagine them better.
+
+I'm **afrige** — an independent developer interested in creating software, experimenting with ideas, and turning concepts into working projects.
+
+I believe good software should be functional, thoughtfully designed, and built with purpose.
+
+No unnecessary complexity. No meaningless features. Just things worth building.
+
+---
+
+## 01 / PHILOSOPHY
+
+<table>
+<tr>
+<td width="50%">
+
+### PRECISION
+
+Every detail matters. From architecture to the smallest interface element.
+
+</td>
+<td width="50%">
+
+### SIMPLICITY
+
+Complex problems deserve elegant solutions, not unnecessary complexity.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### EXPERIMENTATION
+
+Explore ideas. Break conventions. Discover better approaches.
+
+</td>
+<td width="50%">
+
+### EXECUTION
+
+Ideas are interesting. Finished projects are better.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 02 / TECHNOLOGY
+
 <div align="center">
 
-## `01` — ABOUT ME
+### THE TOOLKIT
 
-**not just writing code. building ideas.**
+<img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,html,css,react,git,github,vscode,windows&theme=dark" />
 
 </div>
 
-```js
-const afrige = {
-    username: "afrige",
-    occupation: "developer",
-    interests: [
-        "bot development",
-        "web development",
-        "automation",
-        "creative software"
-    ],
-    languages: ["JavaScript", "Python", "HTML", "CSS"],
-    runtime: ["Node.js"],
-    philosophy: "if it can be built, why not?"
-};
+---
+
+## 03 / WHAT I BUILD
+
+| CATEGORY | DESCRIPTION |
+|:---|:---|
+| SOFTWARE | Applications designed around real functionality. |
+| AUTOMATION | Tools that simplify repetitive workflows. |
+| BOTS | Custom bots and interactive systems. |
+| WEB | Interfaces, platforms, and web experiences. |
+| EXPERIMENTS | Ideas that deserve to exist. |
+
+---
+
+## 04 / DEVELOPMENT PRINCIPLES
+
+```text
+01  Write code that makes sense.
+02  Design with intention.
+03  Keep dependencies reasonable.
+04  Prioritize functionality.
+05  Document what matters.
+06  Never stop experimenting.
 ```
 
-I enjoy experimenting with software, building online projects, designing interfaces, and turning random ideas into real things.
-
 ---
+
+## 05 / GITHUB ACTIVITY
 
 <div align="center">
 
-## `02` — THE TOOLBOX
+<img src="https://github-readme-stats.vercel.app/api?username=afrige&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&icon_color=888888&include_all_commits=true" width="49%" />
 
-*things I use to make things happen.*
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrige&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa" width="49%" />
 
-<br/>
-
-<img src="https://skillicons.dev/icons?i=js,python,nodejs,html,css,git,github,vscode&theme=dark&perline=8" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/JAVASCRIPT-09090b?style=flat-square&logo=javascript&logoColor=f7df1e" />
-<img src="https://img.shields.io/badge/PYTHON-09090b?style=flat-square&logo=python&logoColor=3776ab" />
-<img src="https://img.shields.io/badge/NODE.JS-09090b?style=flat-square&logo=nodedotjs&logoColor=339933" />
-<img src="https://img.shields.io/badge/GIT-09090b?style=flat-square&logo=git&logoColor=f05032" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=afrige&hide_border=true&background=0d0d0d&ring=888888&fire=aaaaaa&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=777777" width="80%" />
 
 </div>
 
 ---
 
-<div align="center">
+## 06 / CURRENT MINDSET
 
-## `03` — GITHUB ANALYTICS
-
-*the numbers behind the commits.*
-
-<br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=afrige&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=afrige&theme=github_dark" />
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com/?user=afrige&theme=github-dark-blue&hide_border=true&background=09090b&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa" />
-
-<br/><br/>
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afrige&theme=github_dark" />
-
-</div>
+> Build something meaningful.
+>
+> Make it work.
+>
+> Make it better.
+>
+> Repeat.
 
 ---
 
+## 07 / CONNECT
+
 <div align="center">
 
-## `04` — CONTRIBUTION MAP
+**HAVE SOMETHING INTERESTING IN MIND?**
 
-*every little commit counts.*
+Open an issue, explore my repositories, or get in touch through GitHub.
+
+[![GitHub](https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afrige)
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=afrige&bg_color=09090b&color=a78bfa&line=8b5cf6&point=ffffff&area=true&area_color=312e81&hide_border=true&custom_title=AFRIGE%27S%20CONTRIBUTION%20GRAPH" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2&section=footer" width="100%"/>
 
-</div>
+### A F R I G E
 
----
+`© 2026 AFRIGE` · `INDEPENDENTLY BUILT`
 
-<div align="center">
-
-## `05` — PROJECT ARCHIVE
-
-*experiments, ideas, and things I've built.*
-
-</div>
-
-| Project | Description |
-|:---|:---|
-| 🤖 **Bots** | Automation and chat platform projects |
-| 🌐 **Web** | Websites and web experiments |
-| ⚡ **Tools** | Small utilities and creative software |
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/afrige?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-8b5cf6?style=for-the-badge&logo=github&logoColor=white&labelColor=09090b" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## `06` — THE END
-
-**thanks for exploring my little corner of GitHub.**
-
-if something caught your attention, check out my repositories.
-
-<br/>
-
-<a href="https://github.com/afrige">
-<img src="https://img.shields.io/badge/FOLLOW-@AFRIGE-8b5cf6?style=for-the-badge&logo=github&logoColor=white&labelColor=09090b" />
-</a>
-
-<br/><br/>
-
-<sub>designed with curiosity. powered by caffeine and questionable ideas.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:312e81,100:09090b&height=130&section=footer" width="100%" />
+**BUILT WITH INTENTION.**
 
 </div>
